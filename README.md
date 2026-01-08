@@ -10,13 +10,23 @@ Welcome to your first cybersecurity challenge! In this assignment, you'll learn 
 
 ### Step 1: Play the Cyber Detective Challenge 🎯
 
-1. Open the file `unit1-cyber-detective-challenge.html` in your web browser
-   - **Right-click** the file → **Open with** → Choose your browser (Chrome, Edge, Firefox, etc.)
-   - OR download it and double-click to open
-2. Read each scenario carefully
-3. Choose the best answer for each question
-4. Try to get the highest score possible!
-5. **Write down your final score** - you'll need it for Step 2
+**How to Open the Game:**
+
+**Method A: Download and Play (Easiest)**
+1. Click on `unit1-cyber-detective-challenge.html` in the file list above
+2. Click the **Download** button (📥) at the top right
+3. Find the downloaded file and **double-click** it to open in your browser
+
+**Method B: Clone and Play**
+1. Clone this repository to your computer
+2. Find `unit1-cyber-detective-challenge.html` in the folder
+3. Double-click it to open in your browser
+
+**Then:**
+1. Read each scenario carefully
+2. Choose the best answer for each question
+3. Try to get the highest score possible!
+4. **Write down your final score** - you'll need it for Step 2
 
 ### Step 2: Complete the Quiz 📝
 
