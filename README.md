@@ -12,9 +12,12 @@ Welcome to your first cybersecurity challenge! In this assignment, you'll learn 
 
 **🎮 PLAY THE GAME:**
 
-Click on `unit1-cyber-detective-challenge.html` above, then click the **"Preview"** button at the top right (eye icon 👁️).
+1. Click on `unit1-cyber-detective-challenge.html` in the file list above
+2. Click the **"Download raw file"** button (download icon on the right side)
+3. Open the downloaded file - it will play in your browser!
 
-OR use this direct link (replace YOUR-USERNAME with your GitHub username):
+**Alternative - Play Online:**
+Copy this link and paste it in your browser (replace YOUR-USERNAME with your actual GitHub username):
 ```
 https://htmlpreview.github.io/?https://github.com/Woodson-ISD/digital-footprint-and-responsibility-YOUR-USERNAME/blob/main/unit1-cyber-detective-challenge.html
 ```
