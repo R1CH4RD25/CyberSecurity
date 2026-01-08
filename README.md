@@ -10,17 +10,14 @@ Welcome to your first cybersecurity challenge! In this assignment, you'll learn 
 
 ### Step 1: Play the Cyber Detective Challenge 🎯
 
-**How to Open the Game:**
+**🎮 PLAY THE GAME:**
 
-**Method A: Download and Play (Easiest)**
-1. Click on `unit1-cyber-detective-challenge.html` in the file list above
-2. Click the **Download** button (📥) at the top right
-3. Find the downloaded file and **double-click** it to open in your browser
+Click on `unit1-cyber-detective-challenge.html` above, then click the **"Preview"** button at the top right (eye icon 👁️).
 
-**Method B: Clone and Play**
-1. Clone this repository to your computer
-2. Find `unit1-cyber-detective-challenge.html` in the folder
-3. Double-click it to open in your browser
+OR use this direct link (replace YOUR-USERNAME with your GitHub username):
+```
+https://htmlpreview.github.io/?https://github.com/Woodson-ISD/digital-footprint-and-responsibility-YOUR-USERNAME/blob/main/unit1-cyber-detective-challenge.html
+```
 
 **Then:**
 1. Read each scenario carefully
